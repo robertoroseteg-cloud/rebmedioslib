@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebmedioslib</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>¿De qué hablamos cuando hablamos de excelencia académica en Comunicación?</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/de-que-hablamos-cuando-hablamos-de-excelencia-academica-en-comunicacion/</description>
+      <link>https://rebelion.org/de-que-hablamos-cuando-hablamos-de-excelencia-academica-en-comunicacion/</link>
+      <guid isPermaLink="false">41726a526e18546d</guid>
+      <pubDate>Sun, 05 Jul 2026 22:35:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/41726a526e18546d.mp3" length="3765744" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los medios occidentales normalizan la limpieza étnica de Líbano al dar la versión israelí</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/los-medios-occidentales-normalizan-la-limpieza-etnica-de-libano-al-dar-la-version-israeli/</description>
+      <link>https://rebelion.org/los-medios-occidentales-normalizan-la-limpieza-etnica-de-libano-al-dar-la-version-israeli/</link>
+      <guid isPermaLink="false">950f0be51a296a18</guid>
+      <pubDate>Sun, 05 Jul 2026 22:34:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/950f0be51a296a18.mp3" length="4634784" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cómo Israel planeó el genocidio de Gaza desde hace décadas</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/como-israel-planeo-el-genocidio-de-gaza-desde-hace-decadas/</description>
+      <link>https://rebelion.org/como-israel-planeo-el-genocidio-de-gaza-desde-hace-decadas/</link>
+      <guid isPermaLink="false">a4bf7b7384569b86</guid>
+      <pubDate>Sun, 05 Jul 2026 22:33:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/a4bf7b7384569b86.mp3" length="8451072" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sin optimismo y con terquedad</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/sin-optimismo-y-con-terquedad/</description>
+      <link>https://rebelion.org/sin-optimismo-y-con-terquedad/</link>
+      <guid isPermaLink="false">f3ee0130270963a3</guid>
+      <pubDate>Sun, 05 Jul 2026 22:31:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/f3ee0130270963a3.mp3" length="1584000" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La nueva búsqueda de Google basada en IA amenaza al periodismo</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-nueva-busqueda-de-google-basada-en-ia-amenaza-al-periodismo/</description>
+      <link>https://rebelion.org/la-nueva-busqueda-de-google-basada-en-ia-amenaza-al-periodismo/</link>
+      <guid isPermaLink="false">78735fec5f4a1278</guid>
+      <pubDate>Sun, 05 Jul 2026 22:31:32 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/78735fec5f4a1278.mp3" length="6960672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Política y prensa latinoamericana: del papel a la era digital</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/politica-y-prensa-latinoamericana-del-papel-a-la-era-digital/</description>
+      <link>https://rebelion.org/politica-y-prensa-latinoamericana-del-papel-a-la-era-digital/</link>
+      <guid isPermaLink="false">24f0d57e577cf410</guid>
+      <pubDate>Sun, 05 Jul 2026 22:30:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/24f0d57e577cf410.mp3" length="2911248" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encubrimiento: El silencio de los medios sobre el legado de Starmer en Gaza</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/encubrimiento-el-silencio-de-los-medios-sobre-el-legado-de-starmer-en-gaza/</description>
+      <link>https://rebelion.org/encubrimiento-el-silencio-de-los-medios-sobre-el-legado-de-starmer-en-gaza/</link>
+      <guid isPermaLink="false">b0c6db25865ac63e</guid>
+      <pubDate>Sun, 05 Jul 2026 22:29:40 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/b0c6db25865ac63e.mp3" length="6348240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Otro 11-S se avecina por cortesía de Israel, el Estado más odiado del mundo</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/884030-2/</description>
+      <link>https://rebelion.org/884030-2/</link>
+      <guid isPermaLink="false">772973b2f75387a1</guid>
+      <pubDate>Sun, 05 Jul 2026 22:28:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/772973b2f75387a1.mp3" length="4200192" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>España, uno de los peores países en pluralidad mediática de la UE</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/espana-uno-de-los-peores-paises-en-pluralidad-mediatica-de-la-ue/</description>
+      <link>https://rebelion.org/espana-uno-de-los-peores-paises-en-pluralidad-mediatica-de-la-ue/</link>
+      <guid isPermaLink="false">0300d0b5526c2627</guid>
+      <pubDate>Sun, 05 Jul 2026 22:27:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/0300d0b5526c2627.mp3" length="3064608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Luces, cámara, autoritarismo</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/luces-camara-autoritarismo/</description>
+      <link>https://rebelion.org/luces-camara-autoritarismo/</link>
+      <guid isPermaLink="false">d9dd755aa8c3694e</guid>
+      <pubDate>Sun, 05 Jul 2026 22:27:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/d9dd755aa8c3694e.mp3" length="20371536" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
