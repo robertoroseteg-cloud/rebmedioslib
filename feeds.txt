@@ -3,18 +3,4 @@
 # Ejemplos (reemplazalos por los tuyos):
 # https://desinformemonos.org/feed/
 # https://www.animalpolitico.com/feed
-https://politepaul.com/fd/cbJqk8TL8jg4.xml
-https://politepaul.com/fd/C07dC6T88DiL.xml
-https://politepaul.com/fd/R0CxxKfNGGfQ.xml
-https://politepaul.com/fd/pumSYlLHSptu.xml
-https://politepaul.com/fd/mSCLtgJsdRKN.xml
-https://politepaul.com/fd/UkBoVXdK08wT.xml
-https://politepaul.com/fd/eeRpyzUmXb1s.xml
-https://politepaul.com/fd/a7rbQM8MX3DG.xml
-https://politepaul.com/fd/oDnqeYbm8Lnz.xml
-https://politepaul.com/fd/9v3emOQsYwl8.xml
-https://politepaul.com/fd/lkbtEhM8o6y7.xml
-https://politepaul.com/fd/W9p3Ec2Na7wi.xml
-https://politepaul.com/fd/UbCzwlDNrYfq.xml
-https://politepaul.com/fd/z99I7nA9Aa2N.xml
-https://desinformemonos.org/feed/
+https://desinformemonos.org/category/columnas/feed/
