@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«De cada cual según sus habilidades, a cada cual según sus necesidades»</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/de-cada-cual-segun-sus-habilidades-a-cada-cual-segun-sus-necesidades/</description>
+      <link>https://rebelion.org/de-cada-cual-segun-sus-habilidades-a-cada-cual-segun-sus-necesidades/</link>
+      <guid isPermaLink="false">ad0a1f97e038d381</guid>
+      <pubDate>Sun, 19 Jul 2026 06:52:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/ad0a1f97e038d381.mp3" length="5071104" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿De qué hablamos cuando hablamos de excelencia académica en Comunicación?</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/de-que-hablamos-cuando-hablamos-de-excelencia-academica-en-comunicacion/</description>
       <link>https://rebelion.org/de-que-hablamos-cuando-hablamos-de-excelencia-academica-en-comunicacion/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">599f2175eaa58998</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
-      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
-      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
-      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
