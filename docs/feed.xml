@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La miseria de nuestro periodismo en el genocidio</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-miseria-de-nuestro-periodismo-en-el-genocidio/</description>
+      <link>https://rebelion.org/la-miseria-de-nuestro-periodismo-en-el-genocidio/</link>
+      <guid isPermaLink="false">8509688a53c08647</guid>
+      <pubDate>Mon, 20 Jul 2026 17:12:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/8509688a53c08647.mp3" length="2821248" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«De cada cual según sus habilidades, a cada cual según sus necesidades»</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/de-cada-cual-segun-sus-habilidades-a-cada-cual-segun-sus-necesidades/</description>
       <link>https://rebelion.org/de-cada-cual-segun-sus-habilidades-a-cada-cual-segun-sus-necesidades/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
-      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
-      <guid isPermaLink="false">599f2175eaa58998</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
