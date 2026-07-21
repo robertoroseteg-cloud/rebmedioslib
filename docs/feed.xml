@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La información en la zona republicana (I)</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-informacion-en-la-zona-republicana-i/</description>
+      <link>https://rebelion.org/la-informacion-en-la-zona-republicana-i/</link>
+      <guid isPermaLink="false">0b6b27ae2f30c331</guid>
+      <pubDate>Tue, 21 Jul 2026 17:02:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/0b6b27ae2f30c331.mp3" length="2479680" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La miseria de nuestro periodismo en el genocidio</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/la-miseria-de-nuestro-periodismo-en-el-genocidio/</description>
       <link>https://rebelion.org/la-miseria-de-nuestro-periodismo-en-el-genocidio/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">731770e3cc47abd7</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
-      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
-      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
