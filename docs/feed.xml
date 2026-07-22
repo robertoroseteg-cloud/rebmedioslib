@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El optimismo revolucionario requiere práctica</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/el-optimismo-revolucionario-requiere-practica/</description>
+      <link>https://rebelion.org/el-optimismo-revolucionario-requiere-practica/</link>
+      <guid isPermaLink="false">b555e3af6e49cad6</guid>
+      <pubDate>Wed, 22 Jul 2026 17:01:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/b555e3af6e49cad6.mp3" length="1494576" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La información en la zona republicana (I)</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/la-informacion-en-la-zona-republicana-i/</description>
       <link>https://rebelion.org/la-informacion-en-la-zona-republicana-i/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">bd51fc61a35596c8</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lo político en Cecosesola</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
-      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
-      <guid isPermaLink="false">731770e3cc47abd7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
