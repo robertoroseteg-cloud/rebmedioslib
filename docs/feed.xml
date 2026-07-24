@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La radio como último refugio de la palabra</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-radio-como-ultimo-refugio-de-la-palabra/</description>
+      <link>https://rebelion.org/la-radio-como-ultimo-refugio-de-la-palabra/</link>
+      <guid isPermaLink="false">5fff0eaab516e8fc</guid>
+      <pubDate>Fri, 24 Jul 2026 17:17:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/5fff0eaab516e8fc.mp3" length="1734624" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El optimismo revolucionario requiere práctica</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/el-optimismo-revolucionario-requiere-practica/</description>
       <link>https://rebelion.org/el-optimismo-revolucionario-requiere-practica/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2a34cb5da8e007d8</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
-      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
-      <guid isPermaLink="false">bd51fc61a35596c8</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
