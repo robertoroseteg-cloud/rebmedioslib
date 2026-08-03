@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los sionistas celebran la invasión de inmigrantes a España</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/los-sionistas-celebran-la-invasion-de-inmigrantes-a-espana/</description>
+      <link>https://rebelion.org/los-sionistas-celebran-la-invasion-de-inmigrantes-a-espana/</link>
+      <guid isPermaLink="false">be6876ed5f3fa6ba</guid>
+      <pubDate>Mon, 03 Aug 2026 15:12:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/be6876ed5f3fa6ba.mp3" length="2337120" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Las comunicaciones en la zona republicana</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/las-comunicaciones-en-la-zona-republicana/</description>
       <link>https://rebelion.org/las-comunicaciones-en-la-zona-republicana/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las guerras por Guerrero</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
-      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
-      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
