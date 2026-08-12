@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Bienestar animal y jerarquías del sufrimiento en Gaza</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/bienestar-animal-y-jerarquias-del-sufrimiento-en-gaza/</description>
+      <link>https://rebelion.org/bienestar-animal-y-jerarquias-del-sufrimiento-en-gaza/</link>
+      <guid isPermaLink="false">575dd9b7d6abe998</guid>
+      <pubDate>Wed, 12 Aug 2026 13:39:56 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/575dd9b7d6abe998.mp3" length="5104944" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los sionistas celebran la invasión de inmigrantes a España</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/los-sionistas-celebran-la-invasion-de-inmigrantes-a-espana/</description>
       <link>https://rebelion.org/los-sionistas-celebran-la-invasion-de-inmigrantes-a-espana/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">d9dd755aa8c3694e</guid>
       <pubDate>Sun, 05 Jul 2026 22:27:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/d9dd755aa8c3694e.mp3" length="20371536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Zulema, la intrépida “Claudia”</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
-      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
-      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
