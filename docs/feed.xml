@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La Liga Antidifamación quiere cancelar a Susan Abulhawa</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-adl-quiere-cancelar-a-susan-abulhawa/</description>
+      <link>https://rebelion.org/la-adl-quiere-cancelar-a-susan-abulhawa/</link>
+      <guid isPermaLink="false">3dc14a0febad5bfc</guid>
+      <pubDate>Mon, 17 Aug 2026 13:03:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/3dc14a0febad5bfc.mp3" length="4486752" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Meta y el «plataformicidio» palestino: cinco años de restricciones a las voces de Gaza</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/meta-y-el-plataformicidio-palestino-cinco-anos-de-restricciones-a-las-voces-de-gaza/</description>
       <link>https://rebelion.org/meta-y-el-plataformicidio-palestino-cinco-anos-de-restricciones-a-las-voces-de-gaza/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b0c6db25865ac63e</guid>
       <pubDate>Sun, 05 Jul 2026 22:29:40 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/b0c6db25865ac63e.mp3" length="6348240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Otro 11-S se avecina por cortesía de Israel, el Estado más odiado del mundo</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/884030-2/</description>
-      <link>https://rebelion.org/884030-2/</link>
-      <guid isPermaLink="false">772973b2f75387a1</guid>
-      <pubDate>Sun, 05 Jul 2026 22:28:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/772973b2f75387a1.mp3" length="4200192" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
