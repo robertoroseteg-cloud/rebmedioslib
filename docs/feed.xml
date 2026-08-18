@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La ética, la comunicación y el informe MacBride</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-etica-la-comunicacion-y-el-informe-macbride/</description>
+      <link>https://rebelion.org/la-etica-la-comunicacion-y-el-informe-macbride/</link>
+      <guid isPermaLink="false">e8f78993c771bc10</guid>
+      <pubDate>Tue, 18 Aug 2026 13:04:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/e8f78993c771bc10.mp3" length="5475744" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La Liga Antidifamación quiere cancelar a Susan Abulhawa</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/la-adl-quiere-cancelar-a-susan-abulhawa/</description>
       <link>https://rebelion.org/la-adl-quiere-cancelar-a-susan-abulhawa/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">24f0d57e577cf410</guid>
       <pubDate>Sun, 05 Jul 2026 22:30:13 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/24f0d57e577cf410.mp3" length="2911248" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Encubrimiento: El silencio de los medios sobre el legado de Starmer en Gaza</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/encubrimiento-el-silencio-de-los-medios-sobre-el-legado-de-starmer-en-gaza/</description>
-      <link>https://rebelion.org/encubrimiento-el-silencio-de-los-medios-sobre-el-legado-de-starmer-en-gaza/</link>
-      <guid isPermaLink="false">b0c6db25865ac63e</guid>
-      <pubDate>Sun, 05 Jul 2026 22:29:40 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/b0c6db25865ac63e.mp3" length="6348240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
