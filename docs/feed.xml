@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Periodismo y corrupción</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/periodismo-y-corrupcion-2/</description>
+      <link>https://rebelion.org/periodismo-y-corrupcion-2/</link>
+      <guid isPermaLink="false">ff05f588d29a2989</guid>
+      <pubDate>Thu, 20 Aug 2026 13:07:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/ff05f588d29a2989.mp3" length="2028240" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La ética, la comunicación y el informe MacBride</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/la-etica-la-comunicacion-y-el-informe-macbride/</description>
       <link>https://rebelion.org/la-etica-la-comunicacion-y-el-informe-macbride/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">78735fec5f4a1278</guid>
       <pubDate>Sun, 05 Jul 2026 22:31:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/78735fec5f4a1278.mp3" length="6960672" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Política y prensa latinoamericana: del papel a la era digital</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/politica-y-prensa-latinoamericana-del-papel-a-la-era-digital/</description>
-      <link>https://rebelion.org/politica-y-prensa-latinoamericana-del-papel-a-la-era-digital/</link>
-      <guid isPermaLink="false">24f0d57e577cf410</guid>
-      <pubDate>Sun, 05 Jul 2026 22:30:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/24f0d57e577cf410.mp3" length="2911248" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
