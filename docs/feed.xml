@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cómo Pokémon Go convirtió a sus jugadores en cartógrafos del Pentágono</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/hay-que-escanearlos-a-todos-como-pokemon-go-convirtio-a-sus-jugadores-en-cartografos-del-pentagono/</description>
+      <link>https://rebelion.org/hay-que-escanearlos-a-todos-como-pokemon-go-convirtio-a-sus-jugadores-en-cartografos-del-pentagono/</link>
+      <guid isPermaLink="false">ea0bb348a6104d31</guid>
+      <pubDate>Mon, 24 Aug 2026 13:09:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/ea0bb348a6104d31.mp3" length="3433968" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Periodismo y corrupción</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/periodismo-y-corrupcion-2/</description>
       <link>https://rebelion.org/periodismo-y-corrupcion-2/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f3ee0130270963a3</guid>
       <pubDate>Sun, 05 Jul 2026 22:31:53 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/f3ee0130270963a3.mp3" length="1584000" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La nueva búsqueda de Google basada en IA amenaza al periodismo</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-nueva-busqueda-de-google-basada-en-ia-amenaza-al-periodismo/</description>
-      <link>https://rebelion.org/la-nueva-busqueda-de-google-basada-en-ia-amenaza-al-periodismo/</link>
-      <guid isPermaLink="false">78735fec5f4a1278</guid>
-      <pubDate>Sun, 05 Jul 2026 22:31:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/78735fec5f4a1278.mp3" length="6960672" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
