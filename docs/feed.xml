@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>De cómo los medios de comunicación venden el genocidio palestino</title>
+      <description>Mentiras y medios – Rebelion — https://rebelion.org/de-como-los-medios-de-comunicacion-venden-el-genocidio-palestino/</description>
+      <link>https://rebelion.org/de-como-los-medios-de-comunicacion-venden-el-genocidio-palestino/</link>
+      <guid isPermaLink="false">d22852fbaa9f2abf</guid>
+      <pubDate>Wed, 26 Aug 2026 13:12:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/d22852fbaa9f2abf.mp3" length="6172848" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cómo Trump intentó sobornar al jefe de la Guardia Revolucionaria Islámica Iraní</title>
       <description>Mentiras y medios – Rebelion — https://rebelion.org/como-trump-intento-sobornar-al-jefe-de-la-guardia-revolucionaria-islamica/</description>
       <link>https://rebelion.org/como-trump-intento-sobornar-al-jefe-de-la-guardia-revolucionaria-islamica/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">950f0be51a296a18</guid>
       <pubDate>Sun, 05 Jul 2026 22:34:29 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/950f0be51a296a18.mp3" length="4634784" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cómo Israel planeó el genocidio de Gaza desde hace décadas</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/como-israel-planeo-el-genocidio-de-gaza-desde-hace-decadas/</description>
-      <link>https://rebelion.org/como-israel-planeo-el-genocidio-de-gaza-desde-hace-decadas/</link>
-      <guid isPermaLink="false">a4bf7b7384569b86</guid>
-      <pubDate>Sun, 05 Jul 2026 22:33:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/a4bf7b7384569b86.mp3" length="8451072" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
