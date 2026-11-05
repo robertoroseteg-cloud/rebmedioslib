@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Una campaña vinculada a Israel explota la islamofobia para influir en las elecciones europeas</title>
+      <description>Rebelión · Mentiras y medios — https://rebelion.org/una-campana-vinculada-a-israel-explota-la-islamofobia-para-influir-en-las-elecciones-europeas-informe/</description>
+      <link>https://rebelion.org/una-campana-vinculada-a-israel-explota-la-islamofobia-para-influir-en-las-elecciones-europeas-informe/</link>
+      <guid isPermaLink="false">8491d430bf6680bb</guid>
+      <pubDate>Thu, 05 Nov 2026 19:53:28 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/8491d430bf6680bb.mp3" length="1291392" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rebelión punto org</title>
+      <description>Rebelión · Mentiras y medios — https://rebelion.org/rebelion-punto-org/</description>
+      <link>https://rebelion.org/rebelion-punto-org/</link>
+      <guid isPermaLink="false">05cf529210f181ef</guid>
+      <pubDate>Thu, 05 Nov 2026 19:53:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/05cf529210f181ef.mp3" length="2722032" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Rebelión , un oasis en el desierto informativo</title>
       <description>Rebelión · Mentiras y medios — https://rebelion.org/rebelion-un-oasis-en-el-desierto-informativo/</description>
       <link>https://rebelion.org/rebelion-un-oasis-en-el-desierto-informativo/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">5fff0eaab516e8fc</guid>
       <pubDate>Fri, 24 Jul 2026 17:17:31 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/5fff0eaab516e8fc.mp3" length="1734624" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El optimismo revolucionario requiere práctica</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/el-optimismo-revolucionario-requiere-practica/</description>
-      <link>https://rebelion.org/el-optimismo-revolucionario-requiere-practica/</link>
-      <guid isPermaLink="false">b555e3af6e49cad6</guid>
-      <pubDate>Wed, 22 Jul 2026 17:01:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/b555e3af6e49cad6.mp3" length="1494576" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La información en la zona republicana (I)</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-informacion-en-la-zona-republicana-i/</description>
-      <link>https://rebelion.org/la-informacion-en-la-zona-republicana-i/</link>
-      <guid isPermaLink="false">0b6b27ae2f30c331</guid>
-      <pubDate>Tue, 21 Jul 2026 17:02:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/0b6b27ae2f30c331.mp3" length="2479680" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
