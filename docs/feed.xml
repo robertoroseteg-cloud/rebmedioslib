@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Rebelion.org en la disputa por el sentido</title>
+      <description>Rebelión · Mentiras y medios — https://rebelion.org/rebelion-org-en-la-disputa-por-el-sentido/</description>
+      <link>https://rebelion.org/rebelion-org-en-la-disputa-por-el-sentido/</link>
+      <guid isPermaLink="false">4dc7a8ff484d6a3c</guid>
+      <pubDate>Mon, 09 Nov 2026 22:17:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/4dc7a8ff484d6a3c.mp3" length="5450976" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Una campaña vinculada a Israel explota la islamofobia para influir en las elecciones europeas</title>
       <description>Rebelión · Mentiras y medios — https://rebelion.org/una-campana-vinculada-a-israel-explota-la-islamofobia-para-influir-en-las-elecciones-europeas-informe/</description>
       <link>https://rebelion.org/una-campana-vinculada-a-israel-explota-la-islamofobia-para-influir-en-las-elecciones-europeas-informe/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">ece27240ab02d8ef</guid>
       <pubDate>Mon, 27 Jul 2026 18:01:50 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/ece27240ab02d8ef.mp3" length="1666800" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La radio como último refugio de la palabra</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/la-radio-como-ultimo-refugio-de-la-palabra/</description>
-      <link>https://rebelion.org/la-radio-como-ultimo-refugio-de-la-palabra/</link>
-      <guid isPermaLink="false">5fff0eaab516e8fc</guid>
-      <pubDate>Fri, 24 Jul 2026 17:17:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/5fff0eaab516e8fc.mp3" length="1734624" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
