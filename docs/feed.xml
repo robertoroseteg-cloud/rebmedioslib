@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La importancia de rebelion.org</title>
+      <description>Rebelión · Mentiras y medios — https://rebelion.org/la-importancia-de-rebelion-org/</description>
+      <link>https://rebelion.org/la-importancia-de-rebelion-org/</link>
+      <guid isPermaLink="false">ce866b57fe51302f</guid>
+      <pubDate>Thu, 12 Nov 2026 19:51:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/ce866b57fe51302f.mp3" length="3711312" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El amigo de Abascal deja sin dinero a millones de personas</title>
       <description>Rebelión · Mentiras y medios — https://rebelion.org/el-amigo-de-abascal-deja-sin-dinero-a-millones-de-personas/</description>
       <link>https://rebelion.org/el-amigo-de-abascal-deja-sin-dinero-a-millones-de-personas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2a679ee98a7adb7b</guid>
       <pubDate>Fri, 31 Jul 2026 14:29:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/2a679ee98a7adb7b.mp3" length="1731024" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cómo ser un propagandista del imperio</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/como-ser-un-propagandista-del-imperio/</description>
-      <link>https://rebelion.org/como-ser-un-propagandista-del-imperio/</link>
-      <guid isPermaLink="false">95aaedac42602e92</guid>
-      <pubDate>Thu, 30 Jul 2026 14:27:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/95aaedac42602e92.mp3" length="814464" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
