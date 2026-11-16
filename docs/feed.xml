@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Un pilar de la batalla de ideas de los pueblos Una trayectoria que alimenta la esperanza</title>
+      <description>Rebelión · Mentiras y medios — https://rebelion.org/un-pilar-de-la-batalla-de-ideas-de-los-pueblosuna-trayectoria-que-alimenta-la-esperanza/</description>
+      <link>https://rebelion.org/un-pilar-de-la-batalla-de-ideas-de-los-pueblosuna-trayectoria-que-alimenta-la-esperanza/</link>
+      <guid isPermaLink="false">75bdacc96b7a3210</guid>
+      <pubDate>Mon, 16 Nov 2026 21:57:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/75bdacc96b7a3210.mp3" length="4771584" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La importancia de rebelion.org</title>
       <description>Rebelión · Mentiras y medios — https://rebelion.org/la-importancia-de-rebelion-org/</description>
       <link>https://rebelion.org/la-importancia-de-rebelion-org/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">be6876ed5f3fa6ba</guid>
       <pubDate>Mon, 03 Aug 2026 15:12:05 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/be6876ed5f3fa6ba.mp3" length="2337120" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las comunicaciones en la zona republicana</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/las-comunicaciones-en-la-zona-republicana/</description>
-      <link>https://rebelion.org/las-comunicaciones-en-la-zona-republicana/</link>
-      <guid isPermaLink="false">2a679ee98a7adb7b</guid>
-      <pubDate>Fri, 31 Jul 2026 14:29:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/2a679ee98a7adb7b.mp3" length="1731024" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
