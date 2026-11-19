@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Las montañas son las únicas que no se encuentran</title>
+      <description>Rebelión · Mentiras y medios — https://rebelion.org/las-montanas-son-las-unicas-que-no-se-encuentran/</description>
+      <link>https://rebelion.org/las-montanas-son-las-unicas-que-no-se-encuentran/</link>
+      <guid isPermaLink="false">03c4a56bf2b68db8</guid>
+      <pubDate>Thu, 19 Nov 2026 20:31:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/03c4a56bf2b68db8.mp3" length="4932000" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los medios de comunicación siguen encubriendo el genocidio de Gaza</title>
       <description>Rebelión · Mentiras y medios — https://rebelion.org/los-medios-de-comunicacion-siguen-encubriendo-el-genocidio-de-gaza/</description>
       <link>https://rebelion.org/los-medios-de-comunicacion-siguen-encubriendo-el-genocidio-de-gaza/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2ff275514305a7f4</guid>
       <pubDate>Fri, 14 Aug 2026 13:34:31 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/2ff275514305a7f4.mp3" length="1046880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Bienestar animal y jerarquías del sufrimiento en Gaza</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/bienestar-animal-y-jerarquias-del-sufrimiento-en-gaza/</description>
-      <link>https://rebelion.org/bienestar-animal-y-jerarquias-del-sufrimiento-en-gaza/</link>
-      <guid isPermaLink="false">575dd9b7d6abe998</guid>
-      <pubDate>Wed, 12 Aug 2026 13:39:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/575dd9b7d6abe998.mp3" length="5104944" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
