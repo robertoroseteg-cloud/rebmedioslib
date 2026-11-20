@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Mediacidio»: La maquinaria asesina de BBC News</title>
+      <description>Rebelión · Mentiras y medios — https://rebelion.org/mediacidio-la-maquinaria-asesina-de-bbc-news/</description>
+      <link>https://rebelion.org/mediacidio-la-maquinaria-asesina-de-bbc-news/</link>
+      <guid isPermaLink="false">d17bc80af54956fc</guid>
+      <pubDate>Fri, 20 Nov 2026 20:02:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/d17bc80af54956fc.mp3" length="7041456" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Las montañas son las únicas que no se encuentran</title>
       <description>Rebelión · Mentiras y medios — https://rebelion.org/las-montanas-son-las-unicas-que-no-se-encuentran/</description>
       <link>https://rebelion.org/las-montanas-son-las-unicas-que-no-se-encuentran/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">403b57b08893496f</guid>
       <pubDate>Sat, 15 Aug 2026 12:55:50 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/403b57b08893496f.mp3" length="2415456" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una ONG denuncia que 40 periodistas palestinos sufren duras condiciones en cárceles de Israel</title>
-      <description>Mentiras y medios – Rebelion — https://rebelion.org/una-ong-denuncia-que-40-periodistas-palestinos-sufren-duras-condiciones-en-carceles-de-israel/</description>
-      <link>https://rebelion.org/una-ong-denuncia-que-40-periodistas-palestinos-sufren-duras-condiciones-en-carceles-de-israel/</link>
-      <guid isPermaLink="false">2ff275514305a7f4</guid>
-      <pubDate>Fri, 14 Aug 2026 13:34:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebmedioslib/episodios/2ff275514305a7f4.mp3" length="1046880" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
